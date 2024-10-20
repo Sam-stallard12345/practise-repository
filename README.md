@@ -1,6 +1,6 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+[CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome Sam Stallard,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
@@ -129,3 +129,22 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+Creating a template for a company website deploying CSS and HTML skills learned while going through the Code Institute LMS. This is my first attempt at practising those skills and applying them in order to cement the knowledge and abilities.
+
+https://8000-samstallard-practiserep-1nsnwsy8zfu.ws.codeinstitute-ide.net/practise.html
+
+Content:
+HTML CSS
+
+Credit:
+Code taken from other places: Code Institute student template for Gitpod
+Content:
+Media:
+Acknoledgements:
+
+Screenshots:
+
+Frameworks:
+
+Deployment:
